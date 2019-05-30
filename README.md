@@ -1,4 +1,4 @@
-Jonathan Fung Software Engineer / Machine Learning Specialist
+# Jonathan Fung Software Engineer / Machine Learning Specialist
 _Passion for technology, collaboration with agile teams, data, visualization, and tight feedback loops._
 
 
