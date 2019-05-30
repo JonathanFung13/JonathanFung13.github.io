@@ -1,23 +1,19 @@
-## Jonathan Fung
-## Software Engineer / Machine Learning
+<!---## Jonathan Fung Software Engineer / Machine Learning Specialist-->
 _Passion for technology, collaboration with agile teams, data, visualization, and tight feedback loops._
 
 
 # Projects
-### NHL Draft Visualization 
-[link](hockey-draft-viz) &nbsp;&nbsp;&nbsp;&nbsp;[view code](https://github.com/JonathanFung13/hockey-draft-viz)
+### [NHL Draft Visualization](hockey-draft-viz) 
 Inspired by this article on the [NFL draft](https://www.news.gatech.edu/2017/04/19/interactive-visualization-illustrates-uncertainty-nfl-draft) 
 this project shows the last 15 years of draft picks for NHL teams.  Data was obtained from
 [nhl.com](nhl.com) using their _REST_ API and processed with this [code](https://github.com/JonathanFung13/nhl_fantasy).
-The visualization was done with D3.js.
+The visualization was done with D3.js [view code](https://github.com/JonathanFung13/hockey-draft-viz).
 
-### Alberta Election History
-[link](missing)
+### [Alberta Election History](missing)
 The Canadian province of Alberta had it's 30th election in April.  This animated gif using open data shared by the
 government animates this history.  Visualization done in Python with Matplotlib and Seaborn packages.  
 
-### Patient Health Predictions
-[link](https://cs6440-f18-prj14.apps.hdap.gatech.edu/)
+### [Patient Health Predictions](https://cs6440-f18-prj14.apps.hdap.gatech.edu/)
 Machine learning group project, in conjunction with the OHDSI collaborative, to predict chances of a patient developing 
 a chronic condition based on survey answers.
 
@@ -37,5 +33,8 @@ diverse & engaged.  More information on the program can be seen in this video. [
 Prior to this program, I worked in the video game industry as a project manager and localization producer in the 
 Bay Area and Vancouver, BC.  These roles were fast-paced and required the highest quality of work to uphold major 
 brands such as _Star Wars_ and _X-Men_.
+
+My undergraduate degree is a B.Sc. in Mechanical Engineering at the University of Alberta.  I was accepted into their
+Co-op program and gained valuable work experience in the pulp & paper industry as well as with a power utility.
 
 ---
