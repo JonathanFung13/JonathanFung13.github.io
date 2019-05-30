@@ -6,7 +6,7 @@ _Passion for technology, collaboration with agile teams, data, visualization, an
 ### [NHL Draft Visualization](hockey-draft-viz) 
 Inspired by this article on the [NFL draft](https://www.news.gatech.edu/2017/04/19/interactive-visualization-illustrates-uncertainty-nfl-draft) 
 this project shows the last 15 years of draft picks for NHL teams.  Data was obtained from
-[nhl.com](nhl.com) using their _REST_ API and processed with this [code](https://github.com/JonathanFung13/nhl_fantasy).
+nhl.com using their _REST_ API and processed with this [code](https://github.com/JonathanFung13/nhl_fantasy).
 The visualization was done with D3.js [view code](https://github.com/JonathanFung13/hockey-draft-viz).
 
 ### [Alberta Election History](missing)
