@@ -1,8 +1,3 @@
----
-layout: default
-published: true
----
-
 # Projects
 ### [NHL Draft Visualization](hockey-draft-viz) 
 Inspired by this article on the [NFL draft](https://www.news.gatech.edu/2017/04/19/interactive-visualization-illustrates-uncertainty-nfl-draft) 
