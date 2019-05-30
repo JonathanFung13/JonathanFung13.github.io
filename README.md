@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Jonathan Fung
+## Software Engineer / Machine Learning
+_Passion for technology, collaboration with agile teams, data, visualization, and tight feedback loops._
 
-You can use the [editor on GitHub](https://github.com/JonathanFung13/JonathanFung13.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projects
+### NHL Draft Visualization 
+[link](hockey-draft-viz) &nbsp;&nbsp;&nbsp;&nbsp;[view code](https://github.com/JonathanFung13/hockey-draft-viz)
+Inspired by this article on the [NFL draft](https://www.news.gatech.edu/2017/04/19/interactive-visualization-illustrates-uncertainty-nfl-draft) 
+this project shows the last 15 years of draft picks for NHL teams.  Data was obtained from
+[nhl.com](nhl.com) using their _REST_ API and processed with this [code](https://github.com/JonathanFung13/nhl_fantasy).
+The visualization was done with D3.js.
 
-### Markdown
+### Alberta Election History
+[link](missing)
+The Canadian province of Alberta had it's 30th election in April.  This animated gif using open data shared by the
+government animates this history.  Visualization done in Python with Matplotlib and Seaborn packages.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Patient Health Predictions
+[link](https://cs6440-f18-prj14.apps.hdap.gatech.edu/)
+Machine learning group project, in conjunction with the OHDSI collaborative, to predict chances of a patient developing 
+a chronic condition based on survey answers.
 
-```markdown
-Syntax highlighted code block
+Served as front-end developer on the project, setup Django, the prediction histogram, outcome backend model, 
+CSS styling, and conducted user feedback sessions.  Used Python, Django, Docker, SQLite, and the Bootstrap framework.  
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+# About me
+Currently pursuing a non-thesis Masters in Computer Science at the Georgia Institute of Technology via their 
+distance-learning program.  I have completed 9 out of 10 courses in the Machine Learning specialization with one 
+elective remaining in fall 2019.
 
-1. Numbered
-2. List
+This program has been one of the best experiences of my life, the coursework is project heavy, and the student body is 
+diverse & engaged.  More information on the program can be seen in this video. [PBS NewsHour video](https://youtu.be/6xNpquytdzw)
 
-**Bold** and _Italic_ and `Code` text
+Prior to this program, I worked in the video game industry as a project manager and localization producer in the 
+Bay Area and Vancouver, BC.  These roles were fast-paced and required the highest quality of work to uphold major 
+brands such as _Star Wars_ and _X-Men_.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonathanFung13/JonathanFung13.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
