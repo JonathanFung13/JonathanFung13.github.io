@@ -1,3 +1,5 @@
+_Passion for technology, collaboration with agile teams, data, visualization, and tight feedback loops._
+
 # Projects
 ### [NHL Draft Visualization](hockey-draft-viz) 
 Inspired by this article on the [NFL draft](https://www.news.gatech.edu/2017/04/19/interactive-visualization-illustrates-uncertainty-nfl-draft) 
@@ -6,8 +8,8 @@ this project shows the last 15 years of draft picks for NHL teams.  Data was obt
 The visualization was done with D3.js [view code](https://github.com/JonathanFung13/hockey-draft-viz).
 
 ### [Alberta Election History](missing)
-The Canadian province of Alberta had it's 30th election in April.  This animated gif using open data shared by the
-government animates this history.  Visualization done in Python with Matplotlib and Seaborn packages.  
+The Canadian province of Alberta held it's 30th election in April.  This animated gif using open data shared by the
+government animates this history.  Visualization was done in Python with the Matplotlib and Seaborn packages.  
 
 ### [Patient Health Predictions](https://cs6440-f18-prj14.apps.hdap.gatech.edu/)
 Machine learning group project, in conjunction with the OHDSI collaborative, to predict chances of a patient developing 
@@ -15,9 +17,6 @@ a chronic condition based on survey answers.
 
 Served as front-end developer on the project, setup Django, the prediction histogram, outcome backend model, 
 CSS styling, and conducted user feedback sessions.  Used Python, Django, Docker, SQLite, and the Bootstrap framework.  
-
-# Jonathan Fung
-_Passion for technology, collaboration with agile teams, data, visualization, and tight feedback loops._
 
 ---
 
@@ -42,3 +41,5 @@ I reside in Vancouver, BC.
 ---
 
 # Contact
+- [e-mail](mailto:jfung9@gatech.edu)
+- [LinkedIn](https://www.linkedin.com/in/jon-fung/)
