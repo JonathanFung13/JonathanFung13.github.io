@@ -1,6 +1,7 @@
-# Jonathan Fung Software Engineer / Machine Learning Specialist
-_Passion for technology, collaboration with agile teams, data, visualization, and tight feedback loops._
-
+---
+layout: default
+published: true
+---
 
 # Projects
 ### [NHL Draft Visualization](hockey-draft-viz) 
@@ -19,6 +20,9 @@ a chronic condition based on survey answers.
 
 Served as front-end developer on the project, setup Django, the prediction histogram, outcome backend model, 
 CSS styling, and conducted user feedback sessions.  Used Python, Django, Docker, SQLite, and the Bootstrap framework.  
+
+# Jonathan Fung
+_Passion for technology, collaboration with agile teams, data, visualization, and tight feedback loops._
 
 ---
 
