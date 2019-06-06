@@ -7,12 +7,12 @@ this project shows the NHL draft over the last 15 years.  Data was obtained from
 [nhl.com](https://www.nhl.com/) using their _REST_ API and processed with this [code](https://github.com/JonathanFung13/nhl_fantasy).
 The visualization was developed with D3.js [view code](https://github.com/JonathanFung13/hockey-draft-viz).
 
-### [Alberta Election History](election-ab)
+### [Alberta's Election History](election-ab)
 The Canadian province of Alberta held it's 30th election in April.  This animated gif using open data shared by the
-government animates this history.  Visualization was done in Python with the Matplotlib and Seaborn packages.  
+government animates this history.  Visualization was done in Python with the NumPy, Pandas, Matplotlib and Seaborn packages.  
 
-### [Patient Health Predictions](https://cs6440-f18-prj14.apps.hdap.gatech.edu/)
-Machine learning group project to predict chances of a patient developing 
+### [Patient Health Predictions](https://ihi.jonfun.dev/)
+Machine learning group project to predict the chance of a patient developing 
 a chronic condition based on survey answers, done in conjunction with the OHDSI collaborative.
 
 Served as a front-end developer on the project, responsible for setting up Django, the prediction histogram, 
